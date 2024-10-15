@@ -7,5 +7,3 @@ example.egg-info/top_level.txt
 tests/__init__.py
 user_segment/__init__.py
 user_segment/main.py
-user_segment/package_1/__init__.py
-user_segment/package_1/awesome_module.py
